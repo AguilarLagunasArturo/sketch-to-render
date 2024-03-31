@@ -11,7 +11,6 @@ Download dependencies.
 
 Install dependencies inside a python venv.
 ```bash
-git clone https://github.com/AguilarLagunasArturo/diffusers.git .venv
 python -m venv .venv/venv
 source .venv/venv/bin/activate
 pip install -U git+https://github.com/AguilarLagunasArturo/diffusers.git
